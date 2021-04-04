@@ -9,4 +9,4 @@
 ## Forth Books
 
 - [Starting Forth](https://www.forth.com/starting-forth/) by Leo Brodie is a classic tutorial and textbook.
-- [Thinking Forth](https://www.forth.com/forth-books/) also by Leo Brodie is a more in-depth look at how to think about problems and their solutions.
+- [Thinking Forth](http://thinking-forth.sourceforge.net/) also by Leo Brodie is "a book about the philosophy of problem solving and programming style, applied to the unique programming language Forth"

@@ -6,6 +6,7 @@
 - [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
   - [Mecrisp-Stellaris](http://mecrisp.sourceforge.net/) is a variant of Mecrisp which runs on various ARM Cortex M chips (and the Raspberry Pi Pico and BBC MicroBit). See also the comprehensive [Documentation](https://mecrisp-stellaris-folkdoc.sourceforge.io/)
 - [CamelForth](http://camelforth.com) is a Forth implementation for embedded microprocessors (8051, 8086, Z80, and 6809, with more to come).
+- [amForth](https://sourceforge.net/projects/amforth/) is an extensible command interpreter running on AVR ATmega and TI MSP430 microcontrollers
 
 ## Forth Books
 

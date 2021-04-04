@@ -2,6 +2,7 @@
 
 ## Forth Implementations
 
+- [GForth](https://gforth.org/) is a free, fast, featureful and portable implementation of the Forth 2012 language.
 - [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
   - [Mecrisp-Stellaris](http://mecrisp.sourceforge.net/) is a variant of Mecrisp which runs on various ARM Cortex M chips (and the Raspberry Pi Pico and BBC MicroBit)
 - [CamelForth](http://camelforth.com) is a Forth implementation for embedded microprocessors (8051, 8086, Z80, and 6809, with more to come).
